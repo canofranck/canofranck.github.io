@@ -1,5 +1,4 @@
 #EXTM3U
-http://line.powerdino.com:80/e1084eb8eb/3396d54a62/629119
 #EXTINF:-1 tvg-id="" tvg-name="FR - Totem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DoIR1XtWo03QWR2nrCqpEdsNA9.jpg" group-title="VOD - RÉCEMMENT AJOUTER [FR]",FR - Totem (2022)
 http://line.powerdino.com:80/movie/e1084eb8eb/3396d54a62/797801.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR - Steve, bête de combat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPlCMYpHH1TCXV6DaXtoxmeows.jpg" group-title="VOD - ANIME [FR]",FR - Steve, bête de combat (2021)
