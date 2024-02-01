@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+Adresse du portfolio
+
+https://canofranck.github.io/
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
